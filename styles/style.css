@@ -170,6 +170,10 @@ hr {
   .courses {
     grid-template-columns: repeat(1, 1fr);
   }
+  nav{
+      display: flex;
+      justify-content: space-around;
+  }
   .player,
   .blog {
     flex-direction: column;
