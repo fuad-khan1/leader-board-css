@@ -15,11 +15,17 @@ nav{
 
 }
 .icon{
+    height: 60px;
     color: white;
     font-size: 2em;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    width: 40px;
 }
 .icon-text{
-    margin-left: 20px;
+    margin-left: 15px;
 }
 
 ul{
